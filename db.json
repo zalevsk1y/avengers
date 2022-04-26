@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Captain America",
+        "realname":"Steve Rogers",
+        "team":"Avengers",
+        "imageurl":"https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-captainamerica_65ba07ce.jpeg"
+    },
+    {
+        "name":"Iron Man",
+        "realname":"Tony Stark",
+        "team":"Avengers",
+        "imageurl":"https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-ironman_96bd4819.jpeg"
+    },
+    {
+        "name":"Spiderman",
+        "realname":"Peter Parker",
+        "team":"Avengers",
+        "imageurl":"https://lumiere-a.akamaihd.net/v1/images/spiderman-characterthumbnail-spiderman_3a64e546.jpeg"
+    },    
+    {
+        "name":"Thor",
+        "realname":"Thor Odinson",
+        "team":"Avengers",
+        "imageurl":"https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-thor_818c3376.jpeg"
+    },
+    {
+        "name": "Black Widow", 
+        "realname": "Natalia 'Natasha' Alianovna Romanova",
+        "team":"Avengers",
+        "imageurl":  "https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-blackwidow_8b8b117b.jpeg"
+    },
+    {
+        "name": "Doctor Strange", 
+        "realname": "Doctor Stephen Strange",
+        "team":"Avengers",
+        "imageurl":  "https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-doctorstrange_a033a056.jpeg"
+    }
+]
