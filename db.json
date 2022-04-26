@@ -12,12 +12,6 @@
         "imageurl":"https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-ironman_96bd4819.jpeg"
     },
     {
-        "name":"Spiderman",
-        "realname":"Peter Parker",
-        "team":"Avengers",
-        "imageurl":"https://lumiere-a.akamaihd.net/v1/images/spiderman-characterthumbnail-spiderman_3a64e546.jpeg"
-    },    
-    {
         "name":"Thor",
         "realname":"Thor Odinson",
         "team":"Avengers",
